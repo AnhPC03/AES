@@ -1,10 +1,5 @@
 # The second program exercise: Usage of block cyphers
 
-Term code: IT4015
-Class code: 115649
-
-## AES with mode CBC and CTR implemented by Nguyen Tien Anh 20172953
-
 ## Description:
 
 The project allows to encrypt and decrypt any type of file by AES Algorithm with CBC mode or CTR mode choices.
