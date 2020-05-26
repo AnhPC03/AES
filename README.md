@@ -1,5 +1,7 @@
 # The second program exercise: Usage of block cyphers
 
+## The program was implemented by Nguyen Tien Anh
+
 ## Description:
 
 The project allows to encrypt and decrypt any type of file by AES Algorithm with CBC mode or CTR mode choices.
